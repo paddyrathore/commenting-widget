@@ -1,0 +1,70 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 20px;
+	padding: 20px;
+}
+.user {
+ 
+}
+.comment-box {
+	
+}
+.post-comment {
+	float: left;
+	width: 90%;
+}
+.input-comment{
+	font-size: 20px;
+	border: 2px solid #ededed;
+	border-radius: 20px;
+	color: #a5a5a5;
+	padding-left: 26px;
+	width: 100%;
+	height: 80px;
+	margin-left: 15px;
+}
+.post-comment-btn {
+	float: right;
+	height: 30px;
+	width: 60px;
+	margin-top: 20px;
+}
+.user-comment {
+	float: left;
+	width: 90%;
+	margin-left: 15px;
+}
+	img {
+	width: 4%;
+	float: left;
+}
+.posted-comment {
+	margin-top: 20px
+}
+a {
+	color: #239DFF;
+	font-size: 15px;
+}
+.share {
+ 	margin-bottom: 10px;
+}
+span {
+	color: #B9C4C9;
+	margin-left: 8px;
+}
+.replys {
+	width: 90%;
+	margin-left: 75px;
+}
+.user-name-time {
+	 margin-left: 15px;
+}
+.text {
+	height: 70px;
+}
+.clearfix {
+	clear: both
+}
